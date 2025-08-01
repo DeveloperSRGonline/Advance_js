@@ -1,0 +1,2 @@
+scope kya hai - aapne created variables and functions kaha tak youse kar sakte ho
+line 2 - variables - toh mai is variable ko kaha tak youse kar sakta hu ye uska scope hai

@@ -1,0 +1,1 @@
+excution context - js sabse pahele jaise hi aap ka function dekha ha sabse pahele js banata hai excution banata hai , ye ek process ha do different phase mein chalta hai , ek ka naam hai memory phase and doosra ka naam hai excution phase
