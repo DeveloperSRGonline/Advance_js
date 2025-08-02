@@ -1,0 +1,5 @@
+agar tumhara constructure function koi field apne prototype par attach karle to us constructure se banne wale sabhi new instances yaani ki objects , ke pass wo field automatically chali jaati hai
+
+sabhi instances ke pass prototype ka bhi access hota hai jo ki shared hota hai ye individual ka nahi sabhi use kar sakte hai alag se memory nahi lega sab ka common hai 
+
+prototype ke vagah se bohar saara space baj jata hai
